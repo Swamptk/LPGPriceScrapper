@@ -76,8 +76,8 @@ In order to unfollow a gas station, just enter the app menu command `[4]` and in
 
 ## TODO List
 
-- [ ] Translate app to english
-- [ ] Run the app automatically in the background
-- [ ] Several bugfixes
+- [ ] Translate app to english.
+- [ ] Run the app automatically in the background on a set interval.
+- [ ] Several bugfixes.
 
 Any kind of tip or advice is greatly appreciated :D
