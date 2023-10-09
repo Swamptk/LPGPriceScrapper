@@ -32,6 +32,8 @@ python main.py
 ## How to use
 Once the app is running, you will see the menu of the app showing the available commands. 
 
+![AppMenu](https://github.com/Swamptk/LPGPriceScrapper/assets/60852817/7c55b3b4-3089-4ae5-a40c-6b613c6e4917)
+
 ### Adding Gas Stations
 The first thing to do when you run the app for the first time is to add the gas stations you want to follow. This is done through the url that is retrieved using the command `[6]`, or the [following link](https://www.gasolinerasglp.com/listado-completo/).
 
