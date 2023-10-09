@@ -74,3 +74,5 @@ In order to unfollow a gas station, just enter the app menu command `[4]` and in
 
 - [ ] Translate app to english
 - [ ] Several bugfixes
+
+Any kind of tip or advice is greatly appreciated :D
