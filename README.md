@@ -8,6 +8,8 @@ Data is stored into `.csv` files and managed using `numpy` and `pandas`.
 
 It can be shown to the user with graphs using `matplotlib.pyplot` and `seaborn`, producing a `.png` file. 
 
+The only file needed to run the app is the `main.py` file. However, I have added some example files to show an example of the result of running the program.
+
 ## Requirements
 In order to run the app you will need the mentioned libraries as well as `colorama` installed in your preferred Python environment (required Python 3.7 or above).
 
@@ -75,6 +77,7 @@ In order to unfollow a gas station, just enter the app menu command `[4]` and in
 ## TODO List
 
 - [ ] Translate app to english
+- [ ] Run the app automatically in the background
 - [ ] Several bugfixes
 
 Any kind of tip or advice is greatly appreciated :D
